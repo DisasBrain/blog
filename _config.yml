@@ -1,0 +1,25 @@
+## Settings
+title: "D1545BR41N"
+owner: "root1x"
+owner: "0x67616e67"
+url: "https://disasbrain.github.io"
+baseurl: "/blog/"
+permalink: ":/title/"
+description: ""
+markdown: kramdown
+webrick: 
+  headers:
+    Access-Control-Allow-Origin: "*"
+## Global Variables
+email: "t3r50v3d4t@hotmail.com"
+github: "DisasBrain"
+# path to: css/, fonts/, img/ and js/
+assets_path: "/assets" # i.e. "/assets" 
+statement: "UNKNXWN"
+# default max toc levels: 1 - 6 (h1 - h6)
+toc_level: 3
+# texts randomly displayed in background
+# bgtext: "αβγδεζηθικλμνξοπρστυφχψω∷∫∮∝∞∧∨∑∏∪∩∈∵∴⊥‖∠⌒⊙≌√"
+bgtext: "01"
+text: "root1x"
+loa: "false"
